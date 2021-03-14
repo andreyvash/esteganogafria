@@ -1,0 +1,15 @@
+Esteganografia consiste em esconder um texto dentro de outro texto ou dentro de uma imagem.
+
+É diferente da criptografia. Na criptografia qualquer pessoa pode ter acesso ao texto cifrado, mas não deve conseguir decifrar o texto. Já na esteganografia o texto claro esta somente escondido dentro de outro texto ou de uma imagem, o texto claro continua "aberto".
+
+Na era da computação, a forma tradicional de estaganografia é esconder um texto dentro de um arquivo de imagem ou de audio. 
+
+A ideia deste trabalho é voces procurarem formas de esteganografia na computação, escolher uma destas formas e implementar. 
+
+Podem usar qualquer linguagem de programação.
+
+Voces devem analisar o arquivo original e o arquivo modificado, mostrando as diferenteças de tamanho do arquivo e outras caracteristicas que foram alteradas na esteganografia.
+
+Trabalho individual.
+
+Os trabalho serão apresentados na quinta (18/03) e sexta (19/03).
